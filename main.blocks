@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="5`yd8M@qh0ib1M6e1Z+@" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="50$fy3fidw@1F;FT,twy"><value name="text"><shadow type="text" id="4eUpc_8Fb@0kP4bBfpSh"><field name="TEXT">Hallo Ella</field></shadow></value></block></statement></block><block type="device_forever" id="!lY/{/h+^2T+s4q|$(|K" x="319" y="-1"></block><block type="device_button_event" id="9_VCUho@Uj7-3@w+7UF0" x="193" y="171"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="swu#/a$/.({D|e-CoHn;"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        # # # # # 
+        . # # . . 
+        . . # . .
+        `</field></block></statement></block><block type="input_on_sound" id="Zvm0SCL{MU={Pk#bV/`-" x="-41" y="188"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="basic_show_icon" id="c}F??JIpU.uF_TWs(8l?"><field name="i">IconNames.No</field></block></statement></block><block type="device_button_event" id="!qcJ:w2Uya$f8jzvk6+)" x="447" y="174"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="r)B`s]6@(`-jV]Mj$4KL"><field name="LEDS">`
+        . . # . . 
+        . . # # . 
+        # # # # # 
+        . . # # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="cFXL7C+UBy+7/oJZP5ZG" x="691" y="176"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="ErlR4I=w/`I1VSX;9k5f"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block><block type="input_logo_event" id="{[$OY6-%,*E)aXWITHjz" x="125" y="567"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_clear_display" id="0ka@FLY2s31|TFO:cApE"></block></statement></block><block type="device_gesture_event" id="Js7TdjX4c@]F#W2[:2?2" x="406" y="558"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="basic_show_icon" id="9]-6/U%|?s,L~Xx6yNSj"><field name="i">IconNames.Chessboard</field></block></statement></block></xml>
